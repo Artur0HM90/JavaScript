@@ -33,6 +33,6 @@ switch (figuraGeometrica) {
         break;
 
     default:
-        document.write(figuraGeometrica + " - NO ES UNA FIGURA GEOMETRICA debes ingresar el nombre de una de las figuras geometricas.");
+        document.write(figuraGeometrica + " - NO ES UNA FIGURA GEOMETRICA debes ingresar el nombre de una de las figuras geometricas de la lista.");
         break;
 }

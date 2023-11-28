@@ -35,6 +35,6 @@ switch (ingresaMes) {
         break;
 
     default:
-        document.write("Debes ingresa una estación.");
+        document.write("Debes ingresa una estación del año.");
         break;
 }
